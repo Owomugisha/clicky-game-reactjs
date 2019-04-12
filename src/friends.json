@@ -1,0 +1,99 @@
+[
+    {
+      "id": 1,
+      "name": "Rihanaa",
+      "image": "https://cosmopolitan.fetcha.co.za/wp-content/uploads/2018/03/Times-We-Got-A-Sneak-Peak-Into-The-Sex-Lives-Of-Celebrities.jpg",
+      "occupation": "Musician",
+      "location": "New York"
+     
+    },
+    {
+      "id": 2,
+      "name": "lionel Messi",
+      "image": "https://dj0j0ofql4htg.cloudfront.net/cms2/image_manager/uploads/News/279515/7/default.jpg",
+      "occupation": "Futbolista",
+      "location": "Barcelona"
+      
+    },
+    {
+      "id": 3,
+      "name": "Mariah Carey",
+      "image": "https://cosmopolitan.fetcha.co.za/wp-content/uploads/2017/08/Cosmo-fashion-Mariah-Carey-.jpg",
+      "occupation": "R&B Musician",
+      "location": "Huntington"
+      
+    },
+    {
+      "id": 4,
+      "name": "Selena Gomez",
+      "image": "http://ichef.bbci.co.uk/news/976/cpsprodpb/2D45/production/_92798511_afp_gomez.jpg",
+      "occupation": "R&B Musician",
+      "location": "Texas"
+     
+    },
+    {
+      "id": 5,
+      "name": "Drake",
+      "image": "https://media1.popsugar-assets.com/files/thumbor/YnYHozzjwsnVXvhEDuAZrmzRpA8/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2015/10/12/006/n/1922398/411bd8fc095aa43c_GettyImages-488419598/i/Drake-Aubrey-Drake-Graham.jpg",
+      "occupation": "Hip Hop Artist",
+      "location": "Toronto"
+    
+    },
+    {
+      "id": 6,
+      "name": "Tom Brady",
+      "image": "https://timedotcom.files.wordpress.com/2017/09/tom-brady-trump1.jpg",
+      "occupation": "footbal player",
+      "location": "Boston"
+   
+    },
+    {
+      "id": 7,
+      "name": "Taraji P Henson",
+      "image": "https://cdn2.stylecraze.com/wp-content/uploads/2013/12/30.-Taraji-P.-Henson.jpg",
+      "occupation": "Actress, Singer, Author",
+      "location": "Washington"
+     
+    },
+    {
+      "id": 8,
+      "name": "Dirk Nowitzki",
+      "image": "http://www1.pictures.zimbio.com/gi/Dirk+Nowitzki+Kristaps+Porzingis+TNc9dPkCSWEm.jpg",
+      "occupation": "basketball players",
+      "location": "New York"
+      
+    },
+    {
+      "id": 9,
+      "name": "Nick Minaj",
+      "image": "https://media1.popsugar-assets.com/files/thumbor/qGvHqNquixQGpiMQeaphZQvPwtw/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2018/07/12/795/n/44701584/799172783e67811b_GettyImages-959329962/i/Sexy-Nicki-Minaj-Pictures-2018.jpg",
+      "occupation": "hip hop Musician",
+      "location": "New york"
+      
+    },
+    {
+      "id": 10,
+      "name": "Stephen Curry",
+      "image": "https://media.gettyimages.com/photos/guard-stephen-curry-of-the-golden-state-warriors-enters-the-game-the-picture-id499787076",
+      "occupation": "Basketball",
+      "location": "California"
+      
+    },
+    {
+      "id": 11,
+      "name": "Salma Hayek",
+      "image": "https://media.gettyimages.com/photos/actress-salma-hayek-arrives-to-the-78th-annual-academy-awards-at-the-picture-id57006424",
+      "occupation": "Actress",
+      "location": "Boston"
+     
+    },
+    {
+      "id": 12,
+      "name": "Neymar",
+      "image": "https://cdn.forbesafrica.com/app/uploads/2017/08/04152335/Neymar.jpg",
+      "occupation": "Soccer Player",
+      "location": "London"
+      
+    }
+  ]
+  
